@@ -22,7 +22,7 @@ Online3DFs: A Learning Framework for Defect Prediction in Nonstationary Environm
 
 ## Requirements 
 
-### R (3.4.2)
+### R (3.6.3)
 
 ```
 * caret
