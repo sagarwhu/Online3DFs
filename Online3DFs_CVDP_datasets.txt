@@ -1,0 +1,13 @@
+Ant: The related information about Apache Ant, a Java library and command-line tool, could be retrieved from -  \url{http://ant.apache.org/}.
+Camel: Apache Camel is an Open Source integration framework, see - \url{https://camel.apache.org/} for details.
+JEdit: jEdit is a text editor designed for programmers, for details - \url{http://www.jedit.org/}.
+Poi: Apache Poi is a Java API for Microsoft Document, for details - \url{http://poi.apache.org/}.
+Prop-1 to Prop-5: Prop-1 to Prop-5 are industrial projects related to insurance domain \cite{XU201959}.
+Prop-42: Prop-42, a industrial tool for software quality assurance \cite{XU201959}.
+Ivy: ivy project is a dependence manager focusing on flexibility and simplicity
+Log4j: log4j project is a logging package for printing log output
+lucene: lucene is a free and open-source information retrieval software library
+Synapse: synapse project is a lightweight and high-performance Enterprise Service Bus
+Velocity: velocity project is a template language engine
+Xalan: xalan is an XSLT processor for transforming XML documents into HTML, text, or other XML document types
+Xerces: xerces project is a Java-based XML parser
