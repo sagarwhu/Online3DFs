@@ -3,39 +3,42 @@ Online3DFs: A Learning Framework for Defect Prediction in Nonstationary Environm
 
 ## Research Questions 
 
-###R (3.4.2)
-caret
+## Requirements 
 
-e1071
+### R (3.4.2)
 
-effsize
+```
+* caret
+* e1071
+* effsize
 
-ScottKnottESD
+* ScottKnottESD
 
-scmamp
+* scmamp
 
-ggplot2
+* ggplot2
 
-Rgraphviz
+* Rgraphviz
 
-grid
+* grid
 
-plyrreshape
+* plyrreshape
 
-ScottKnott
+* ScottKnott
 
-Rnalytica
+* Rnalytica
 
-Boruta
+* Boruta
 
-mlbench
+* mlbench
 
-randomForest
+* randomForest
 
-cowplot
+* cowplot
 
-tidyverse
+* tidyverse
 
-plotly
+* plotly
 
-IRdisplay
+* IRdisplay
+```
