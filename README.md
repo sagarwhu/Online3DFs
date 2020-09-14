@@ -1,6 +1,7 @@
 # Online3DFs
 Online3DFs: A Learning Framework for Defect Prediction in Nonstationary Environments
-![Online3DFsImage](https://user-images.githubusercontent.com/24502313/93049566-d9a02d00-f693-11ea-8d0a-c12d5377dbbf.PNG)
+![Picture1](https://user-images.githubusercontent.com/24502313/93050627-c8f0b680-f695-11ea-8609-1f5797c36f79.png)
+
 ## Authors 
 
 * Md Alamgir Kabir, Jacky Keung
