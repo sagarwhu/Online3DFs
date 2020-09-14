@@ -1,3 +1,0 @@
-"tp","fn","fp","tn","prec","pd","gmean","accuracy","Error_rate","toString.confirmed."
-148,14,38,22,0.795698924731183,0.91358024691358,0.578774069796076,0.765765765765766,0.234234234234234,"~, bug, wmc + rfc + lcom + ce + loc + amc + max_cc"
-143,27,43,43,0.768817204301075,0.841176470588235,0.648527744428962,0.7265625,0.2734375,"~, bug, wmc + dit + cbo + rfc + lcom + ce + npm + loc + dam + moa + mfa + cam + amc + max_cc"

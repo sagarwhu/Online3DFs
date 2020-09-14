@@ -1,4 +1,0 @@
-"tp","fn","fp","tn","prec","pd","gmean","accuracy","Error_rate","toString.confirmed."
-205,72,22,15,0.903083700440529,0.740072202166065,0.54774927763385,0.700636942675159,0.299363057324841,"~, X..bug, X.wmc + X.dit + X.cbo + X.rfc + X.lcom + X.ce + X.npm + X.lcom3 + X.loc + X.dam + X.mfa + X.cam + X.cbm + X.amc"
-131,6,223,25,0.370056497175141,0.956204379562044,0.310469918865528,0.405194805194805,0.594805194805195,"~, X..bug, X.wmc + X.dit + X.cbo + X.rfc + X.lcom + X.ce + X.npm + X.lcom3 + X.loc + X.dam + X.mfa + X.cam + X.ic + X.cbm + X.amc + X.max_cc + X.avg_cc"
-143,18,159,122,0.473509933774834,0.888198757763975,0.620986038453737,0.599547511312217,0.400452488687783,"~, X..bug, X.wmc + X.dit + X.cbo + X.rfc + X.lcom + X.ca + X.ce + X.npm + X.lcom3 + X.loc + X.dam + X.mfa + X.cam + X.ic + X.cbm + X.amc + X.max_cc + X.avg_cc"
