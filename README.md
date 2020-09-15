@@ -14,7 +14,7 @@ Online3DFs: A Learning Framework for Defect Prediction in Nonstationary Environm
 ## Research Questions 
 
 ```
-* RQ1: Impacts of Online3DFs - The Online3DFs framework with automated FS significantly outperformed All in terms of G-mean and Confs and Cfs outperformed All in terms of F1
+* RQ1: Impacts of Online3DFs - The Online3DFs framework with automated FS significantly outperformed the conventional CVDP models using all feature sets in terms of G-mean and Confs and Cfs outperformed All in terms of F1
 * RQ2: How does automated FS compared with fixed-size feature sets: Cfs achieved the maximum G-mean and the AutoSpeaman gained the highest average F1
 * RQ3: Which FS is robust to concept drift The AutoSpearman achieved the highest F1 by 78.9% and had maximum stable models than the other benchmark methods
 ```
