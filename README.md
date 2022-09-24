@@ -4,12 +4,8 @@ Online3DFs: A Learning Framework for Defect Prediction in Nonstationary Environm
 
 ## Authors 
 
-* Md Alamgir Kabir, Jacky Keung
-	* City University of Hong Kong 
-* Burak Turhan 
-	* Monash University, Australia and University of Oulu, Finland
-* Kwabena Ebo Bennin
-	* Wageningen University Research, Wageningen, The Netherlands
+* Md Alamgir Kabir
+	* Artificial Intelligence and Intelligent Systems Research Group, Division of Computer Science and Software Engineering, Mälardalen University, Högskoleplan 1, 722 20 Västerås, Sweden
 
 ## Research Questions 
 
